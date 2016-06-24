@@ -1,2 +1,6 @@
 # DataScienceOverview
-An overview to data science
+
+A set of introduction workshops for Data Science
+
+- Introduction to Data Science
+- Introduction to Machine Learning
